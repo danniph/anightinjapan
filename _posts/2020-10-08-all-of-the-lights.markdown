@@ -5,4 +5,4 @@ excerpt: The nightlife here runs the gamut, from rowdy izakayas and beer bars, t
   red-light entertainment and the infamous Robot Restaurant.
 ---
 
-blog 1
+The nightlife here runs the gamut, from rowdy izakayas and beer bars, to red-light entertainment and the infamous Robot Restaurant.
