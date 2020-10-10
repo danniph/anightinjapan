@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: danni.hu515@gmail.com
 description: just another blog about japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: danniphu
 github_username: danniphu
 theme: minima
